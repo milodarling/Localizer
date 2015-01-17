@@ -1,0 +1,9 @@
+Package: com.milodarling.localizer
+Name: Localizer
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Localize tweaks!
+Maintainer: Milo Darling
+Author: Milo Darling
+Section: Tweaks
